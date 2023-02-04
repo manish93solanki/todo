@@ -1,9 +1,7 @@
 {  
     "Todo":{
-        "title": {
-            "exercise":{}
-        },
-        "completed": true
-        }
+        "title": {}
+
+}
 
 }
