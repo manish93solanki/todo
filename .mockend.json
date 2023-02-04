@@ -1,7 +1,9 @@
 {  
     "Todo":{
-        "tiTle": "exercise",
-        "comPleted": true
+        "title": {
+            "exercise":{}
+        },
+        "completed": true
         }
 
 }
