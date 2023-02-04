@@ -4,14 +4,13 @@
     {
 
    "id": 1,
-    "title": "exercise",
-    "completed": "true"
+    "title": "exercise"
     },
 
   {
     "id": 2,
-     "title": "travel",
-     "completed": "false"
-   }]
+     "title": "travel"
+     
+     }]
 
 }
