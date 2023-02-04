@@ -1,9 +1,8 @@
-{  
-  
-    
+{
+  "Post": {
+    "_": {
+      "items": 10
+    }
 
-   "id": 1,
-    "title": "exercise"
-    
-
+  }
 }
