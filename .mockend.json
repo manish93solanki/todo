@@ -1,16 +1,10 @@
 {  
   
-  "todo":[
+  "todo":
     {
 
    "id": 1,
     "title": "exercise"
-    },
-
-  {
-    "id": 2,
-     "title": "travel"
-     
-     }]
+    }
 
 }
