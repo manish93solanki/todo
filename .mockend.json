@@ -1,7 +1,17 @@
-
+{  
+  
+  "todo":[
     {
 
    "id": 1,
     "title": "exercise",
-    "completed": true
-    }
+    "completed": "true"
+    },
+
+  {
+    "id": 2,
+     "title": "travel",
+     "completed": "false"
+   }]
+
+}
